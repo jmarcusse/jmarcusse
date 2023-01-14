@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jordan
-- 👀 I’m interested in economics, particular as it pertains to the labor market and personnel matters.
+- 👀 I’m interested in economics, particularly as it pertains to the labor market and personnel matters.
 - 🌱 I’m currently learning Python (always...), and R Markdown
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
